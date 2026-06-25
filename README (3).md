@@ -14,10 +14,10 @@ Surface micro-crack detection in structural and composite materials is a critica
 
 | Metric | Value |
 |---|---|
-| Test Accuracy | 99.1% |
-| Precision (Crack class) | 99.5% |
-| Recall (Crack class) | 98.7% |
-| Misclassifications | 72 / 8,000 test images |
+| Test Accuracy | 99.78% |
+| Precision (Crack class) | 99.55% |
+| Recall (Crack class) | 99.5% |
+| Misclassifications | 18 / 8,000 test images |
 | Total Dataset Size | 40,000 images |
 | Train / Test Split | 80 / 20 |
 
